@@ -8,7 +8,9 @@
   <img src="figures/mlops_cycle.png" width="1000">
 </p>
 
-CONFLICT LINE LOCAL
+
+CONFLICT LINE ONLINE
+
 
 ## ℹ️ Course information
 
