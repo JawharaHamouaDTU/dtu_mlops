@@ -8,10 +8,10 @@
   <img src="figures/mlops_cycle.png" width="1000">
 </p>
 
-LOCAL CONFLICT TEST
+CONFLICT LINE
 
 ## ℹ️ Course information
---Edit a line to remove later--
+
 * Course responsible
     * Postdoc [Nicki Skafte Detlefsen](https://skaftenicki.github.io/), <nsde@dtu.dk>
     * Professor [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/), <sohau@dtu.dk>
