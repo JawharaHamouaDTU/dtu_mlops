@@ -8,6 +8,8 @@
   <img src="figures/mlops_cycle.png" width="1000">
 </p>
 
+LOCAL CONFLICT TEST
+
 ## ℹ️ Course information
 
 * Course responsible
